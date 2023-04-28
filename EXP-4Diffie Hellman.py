@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Apr 28 21:09:34 2023
-
-@author: Admin
-"""
 q = 23
 x = 9  
 print('The prime number is : ',q)
