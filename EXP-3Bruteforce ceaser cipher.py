@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Apr 28 21:08:33 2023
-
-@author: Admin
-"""
-
 message = 'RD SFRJ NX WFLMZ'
 Letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 
