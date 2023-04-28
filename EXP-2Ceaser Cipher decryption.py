@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Apr 28 13:42:13 2023
-
-@author: Admin
-"""
-
 ct=input("Enter the cipher text : ")
 pt=""
 k=int(input("Enter the key:"))
